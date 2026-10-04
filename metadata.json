@@ -1,0 +1,6 @@
+{
+  "name": "Todo Compresores y Bobinados - Control de Ventas y Taller",
+  "description": "Sistema de facturación rápida, estadísticas en vivo y cierre de caja para Todo Compresores y Bobinados con sincronización Supabase y código Flutter Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

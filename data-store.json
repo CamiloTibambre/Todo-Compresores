@@ -1,0 +1,167 @@
+{
+  "sales": [
+    {
+      "id": "sale-muudfaem-lyat",
+      "item_name": "Aceite Compresor Mineral 1L",
+      "price": 35000,
+      "payment_method": "efectivo",
+      "category": "aceite",
+      "created_at": "2026-10-04T22:06:53.806Z",
+      "created_time_str": "10:06 PM",
+      "created_date_str": "2026-10-24",
+      "synced_to_supabase": false
+    },
+    {
+      "id": "sale-001",
+      "item_name": "Aceite Sintético Compresor 1L",
+      "price": 45000,
+      "payment_method": "nequi_davi",
+      "category": "aceite",
+      "created_at": "2026-10-24T16:15:00.000Z",
+      "created_time_str": "4:15 PM",
+      "created_date_str": "2026-10-24",
+      "customer_name": "Taller Mecánico El Pistón"
+    },
+    {
+      "id": "sale-002",
+      "item_name": "Acople Rápido 1/4 NPT Alta Presión",
+      "price": 18000,
+      "payment_method": "efectivo",
+      "category": "acople",
+      "created_at": "2026-10-24T15:30:00.000Z",
+      "created_time_str": "3:30 PM",
+      "created_date_str": "2026-10-24",
+      "customer_name": "Cliente Mostrador"
+    },
+    {
+      "id": "sale-003",
+      "item_name": "Bobinado Motor Trifásico 3HP 220V",
+      "price": 140000,
+      "payment_method": "efectivo",
+      "category": "bobinado",
+      "created_at": "2026-10-24T13:50:00.000Z",
+      "created_time_str": "1:50 PM",
+      "created_date_str": "2026-10-24",
+      "customer_name": "Industrias Metálicas Suba"
+    },
+    {
+      "id": "sale-004",
+      "item_name": "Mantenimiento General Cabezal 5HP",
+      "price": 140000,
+      "payment_method": "tarjeta",
+      "category": "mantenimiento",
+      "created_at": "2026-10-24T13:50:00.000Z",
+      "created_time_str": "1:50 PM",
+      "created_date_str": "2026-10-24",
+      "customer_name": "Pinturas & Carrocerías Boyacá"
+    },
+    {
+      "id": "sale-005",
+      "item_name": "Filtro de Aire 3/4 Metálico",
+      "price": 18000,
+      "payment_method": "efectivo",
+      "category": "filtro",
+      "created_at": "2026-10-24T12:10:00.000Z",
+      "created_time_str": "12:10 PM",
+      "created_date_str": "2026-10-24"
+    },
+    {
+      "id": "sale-006",
+      "item_name": "Válvula de Seguridad 150 PSI Bronce",
+      "price": 24000,
+      "payment_method": "nequi_davi",
+      "category": "valvula",
+      "created_at": "2026-10-24T11:45:00.000Z",
+      "created_time_str": "11:45 AM",
+      "created_date_str": "2026-10-24"
+    },
+    {
+      "id": "sale-007",
+      "item_name": "Kit Empaquetadura Completo Cabezal",
+      "price": 85000,
+      "payment_method": "efectivo",
+      "category": "repuesto",
+      "created_at": "2026-10-23T17:10:00.000Z",
+      "created_time_str": "5:10 PM",
+      "created_date_str": "2026-10-23"
+    },
+    {
+      "id": "sale-008",
+      "item_name": "Manómetro de Presión 0-300 PSI Glicerina",
+      "price": 32000,
+      "payment_method": "efectivo",
+      "category": "repuesto",
+      "created_at": "2026-10-23T11:20:00.000Z",
+      "created_time_str": "11:20 AM",
+      "created_date_str": "2026-10-23"
+    },
+    {
+      "id": "sale-009",
+      "item_name": "Bobinado Motor Monofásico 2HP",
+      "price": 180000,
+      "payment_method": "tarjeta",
+      "category": "bobinado",
+      "created_at": "2026-10-23T10:15:00.000Z",
+      "created_time_str": "10:15 AM",
+      "created_date_str": "2026-10-23"
+    },
+    {
+      "id": "sale-010",
+      "item_name": "Aceite Compresor Mineral 1L ISO 100",
+      "price": 35000,
+      "payment_method": "nequi_davi",
+      "category": "aceite",
+      "created_at": "2026-10-23T09:30:00.000Z",
+      "created_time_str": "9:30 AM",
+      "created_date_str": "2026-10-23"
+    },
+    {
+      "id": "sale-011",
+      "item_name": "Válvula Cheque Antirretorno 1/2",
+      "price": 45000,
+      "payment_method": "efectivo",
+      "category": "valvula",
+      "created_at": "2026-10-23T08:50:00.000Z",
+      "created_time_str": "8:50 AM",
+      "created_date_str": "2026-10-23"
+    },
+    {
+      "id": "sale-012",
+      "item_name": "Presostato Automático 4 Vías",
+      "price": 95000,
+      "payment_method": "tarjeta",
+      "category": "repuesto",
+      "created_at": "2026-10-23T14:20:00.000Z",
+      "created_time_str": "2:20 PM",
+      "created_date_str": "2026-10-23"
+    },
+    {
+      "id": "sale-013",
+      "item_name": "Banda en V A-42 Dentada",
+      "price": 28000,
+      "payment_method": "efectivo",
+      "category": "repuesto",
+      "created_at": "2026-10-23T16:00:00.000Z",
+      "created_time_str": "4:00 PM",
+      "created_date_str": "2026-10-23"
+    },
+    {
+      "id": "sale-014",
+      "item_name": "Condensador de Arranque 250 MFD",
+      "price": 20000,
+      "payment_method": "efectivo",
+      "category": "repuesto",
+      "created_at": "2026-10-23T16:45:00.000Z",
+      "created_time_str": "4:45 PM",
+      "created_date_str": "2026-10-23"
+    }
+  ],
+  "closures": [],
+  "supabaseConfig": {
+    "url": "",
+    "anon_key": "",
+    "is_configured": false,
+    "is_connected": false,
+    "table_name": "ventas_tcb"
+  }
+}
